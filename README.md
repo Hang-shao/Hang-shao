@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[！[Top Langs]（https://github-readme-stats.vercel.app/api/top-langs/？username = Hang-shao＆layout = compact）]（https://github.com/anuraghazra/github-readme-统计信息）
+[！[willianrod的wakatime统计信息]（https://github-readme-stats.vercel.app/api/wakatime？username = Hang-shao）]（https://github.com/anuraghazra/github-readme-stats）
